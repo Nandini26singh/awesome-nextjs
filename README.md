@@ -126,6 +126,7 @@ To stay updated, follow the GitHub Repository and give our repository a star. Th
 - [Minimalist](https://github.com/frontendweb3/minimalist) - Minimalist blog template built with nextjs and tailwind css.
 - [Open Blog](https://github.com/frontendweb3/open-blog) - Open blog is a bloging template built with nextjs, tailwind CSS and markdown.
 - [Blogify](https://github.com/frontendweb3/blogify) - Blogify is an open-source nextjs blog template design with tailwind CSS.
+- [next-saas-stripe-starter](https://github.com/mickasmt/next-saas-stripe-starter) - Open-source SaaS Starter with User Roles & Admin Panel. Built using Next.js 14, Prisma, Neon, Auth.js v5, Resend, React Email, Shadcn/ui, Stripe, Server Actions.
 
 ## Nextjs boilerplate
 
